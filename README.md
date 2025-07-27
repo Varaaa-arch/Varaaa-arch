@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;I'm+Bizar+Octo+Givardi!;Fuelled+By+Coffee+And+Code.;Offensive+Security+%7C+Full-Stack+Engineer!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;I'm+Bizar+Octo+Givardi!;Fuelled+By+Coffee+And+Code.;Offensive+Security+Is+My+Passion" alt="Typing Animation" />
 </p>
 <div align="center">
   <img src="killua.gif" width="66%" />

@@ -1,22 +1,21 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ADD8E6&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;I'm+Bizar+Octo+Givardi!;Fuelled+By+Coffe+And Code.;Cyber+Security+Is+My+Passion!" alt="Typing Animation" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;I'm+Bizar+Octo+Givardi!;Fuelled+By+Coffee+And+Code.;Offensive+Security+%7C+Full-Stack+Engineer!" alt="Typing Animation" />
 </p>
 <div align="center">
-  <img src="killua.gif" width="80%" />
+  <img src="killua.gif" width="66%" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Web Developer | Offensive Security 👨‍💻💣**
+- 👨‍💻 Offensive Security & Web Developer Enthusiast 💻
 - 🎓 Student at **SMK Negeri 1 Jakarta**
 - ⚙️ Building, breaking, and learning every day
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
@@ -38,7 +37,7 @@
 
 ---
 
-## 🤝 My Media Social
+## 🌐 My Media Social
 
 <p align="center">
     <a href="mailto:mahesvara1810@gmail.com">
@@ -62,3 +61,4 @@
 ![GitHub Snake Contribution](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
+

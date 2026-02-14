@@ -7,15 +7,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 👨‍💻 Offensive Security & Web Developer Enthusiast 💻
-- 🎓 Student at **SMK Negeri 1 Jakarta**
-- ⚙️ Building, breaking, and learning every day
+- Offensive Security & Web Developer Enthusiast 💻
+- Student at **SMK Negeri 1 Jakarta**
+- Building, breaking, and learning every day
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
@@ -37,7 +37,7 @@
 
 ---
 
-## 🌐 My Media Social
+## My Media Social
 
 <p align="center">
     <a href="mailto:mahesvara1810@gmail.com">

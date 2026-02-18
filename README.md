@@ -20,9 +20,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
-<img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Metasploit-0053C3?style=for-the-badge&logo=metasploit" />
-<!-- <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark" /> -->
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark" />
 <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" />
 <img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim" />

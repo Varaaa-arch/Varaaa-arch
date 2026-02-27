@@ -46,9 +46,6 @@
     <a href="https://www.instagram.com/zarrrgvrd/">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.tiktok.com/@kuda.gembrot">
-      <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-    </a>
     <a href="https://x.com/GivardiB">
         <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>

@@ -7,14 +7,6 @@
 
 ---
 
-## About Me
-
-- Offensive Security & Web Developer Enthusiast 💻
-- Student at **SMK Negeri 1 Jakarta**
-- Building, breaking, and learning every day
-
----
-
 ## Tech Stack
 
 <p align="center">
@@ -51,11 +43,4 @@
     </a>
 </p>
 
----
-<div align="center">
-
-![GitHub Snake Contribution](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake Contribution](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
 

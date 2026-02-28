@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Metasploit-0053C3?style=for-the-badge&logo=metasploit" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark" />
-<img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap" />
+<img src="https://img.shields.io/badge/-Nmap-4386A1?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Zsh-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>

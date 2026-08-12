@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Source photos (don't commit personal photos)
+source-photo.jpg
+source-photo.png
+source-photo.jpeg
+source-prepped.png
+
+# Local env overrides
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated (SVGs ARE committed — they're the deployed assets)
+# data/contributions.json is committed for offline/fallback use

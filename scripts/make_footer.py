@@ -62,10 +62,10 @@ css = """
 # Scrolling text content
 scroll_text = (
     "  ❯ Varaaa-arch@github  ·  full-stack developer  ·  security enthusiast  ·  "
-    "open source contributor  ·  coffee dependent  ·  arch linux btw  ·  "
+    "open source contributor  ·  coffee dependent  ·  fedora btw  ·  "
     "building the future one commit at a time  ·  "
     "❯ Varaaa-arch@github  ·  full-stack developer  ·  security enthusiast  ·  "
-    "open source contributor  ·  coffee dependent  ·  arch linux btw  ·  "
+    "open source contributor  ·  coffee dependent  ·  fedora btw  ·  "
     "building the future one commit at a time  ·  "
 )
 

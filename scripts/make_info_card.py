@@ -32,7 +32,7 @@ SOFT    = "#7ab8b0"
 PROFILE = {
     "user":     "Varaaa-arch",
     "host":     "github.com",
-    "os":       "Arch Linux",
+    "os":       "Fedora Linux",
     "shell":    "zsh + tmux",
     "editor":   "Neovim",
     "uptime":   "∞ (no sleep)",
@@ -43,10 +43,10 @@ PROFILE = {
 ROWS = [
     ("host",),
     ("sep",),
-    ("kv", "OS",       "Arch Linux"),
+    ("kv", "OS",       "Fedora Linux"),
     ("kv", "Shell",    "zsh + tmux"),
     ("kv", "Editor",   "Neovim"),
-    ("kv", "WM",       "Hyprland"),
+    ("kv", "WM",       "GNOME"),
     ("sep",),
     ("kv", "Status",   "Student · SWE"),
     ("kv", "Focus",    "Full-Stack · Security"),
@@ -56,7 +56,7 @@ ROWS = [
     ("kv", "Web",      "Next.js · React · Tailwind"),
     ("kv", "Infra",    "Docker · PostgreSQL · Redis"),
     ("sep",),
-    ("tags", ["open-source", "night-owl", "arch btw", "coffee++"]),
+    ("tags", ["open-source", "night-owl", "fedora btw", "coffee++"]),
 ]
 
 

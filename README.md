@@ -27,13 +27,6 @@
 
 <br/>
 
-<!-- ░░░ SECTION: FEATURED PROJECTS ░░░ -->
-<h3><code>Varaaa-arch@github ~ $ ls ./projects/</code></h3>
-
-<img src="./assets/projects-card.svg" width="860" alt="ZENITH — featured projects" />
-
-<br/>
-
 <!-- ░░░ SECTION: CONTRIBUTIONS ░░░ -->
 <h3><code>Varaaa-arch@github ~ $ ./contributions --neon-graph</code></h3>
 

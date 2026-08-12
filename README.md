@@ -73,17 +73,20 @@
 <h3><code>Varaaa-arch@github ~ $ ./links.sh</code></h3>
 
 <p>
-  <a href="https://linkedin.com/in/Varaaa-arch">
+  <a href="https://www.linkedin.com/in/bizar-octo-givardi-2557aa315/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Varaaa-arch">
     <img src="https://img.shields.io/badge/Portfolio-00fff5?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio"/>
   </a>
-  <a href="mailto:hi@Varaaa-arch.dev">
+  <a href="mailto:mahesvara1810@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://discord.com/users/Varaaa-arch">
+  <a href="https://discord.com/users/zarrgvrd">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://instagram.com/zarrrgvrd">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 

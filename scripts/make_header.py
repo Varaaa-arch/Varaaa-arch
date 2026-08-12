@@ -219,23 +219,23 @@ FS = 82  # font size
 # Permanent chromatic aberration — red channel left, cyan channel right (subtle)
 parts.append(
     f'<text x="{CX-3}" y="{TY}" text-anchor="middle" font-size="{FS}" font-weight="900" '
-    f'letter-spacing="16" fill="{MAGENTA}" opacity="0.18">ZENITH</text>'
+    f'letter-spacing="16" fill="{MAGENTA}" opacity="0.18">Bizar</text>'
 )
 parts.append(
     f'<text x="{CX+3}" y="{TY}" text-anchor="middle" font-size="{FS}" font-weight="900" '
-    f'letter-spacing="16" fill="{CYAN}" opacity="0.18">ZENITH</text>'
+    f'letter-spacing="16" fill="{CYAN}" opacity="0.18">Bizar</text>'
 )
 
 # Glitch layers (only fire in 88-96% window → looks like random bursts)
 parts.append(
     f'<text x="{CX}" y="{TY}" text-anchor="middle" font-size="{FS}" font-weight="900" '
     f'letter-spacing="16" fill="{MAGENTA}" opacity="0.7" '
-    f'style="animation: glitch 6s infinite 2s">ZENITH</text>'
+    f'style="animation: glitch 6s infinite 2s">Bizar</text>'
 )
 parts.append(
     f'<text x="{CX}" y="{TY}" text-anchor="middle" font-size="{FS}" font-weight="900" '
     f'letter-spacing="16" fill="{CYAN}" opacity="0.7" '
-    f'style="animation: glitch2 6s infinite 2.2s">ZENITH</text>'
+    f'style="animation: glitch2 6s infinite 2.2s">Bizar</text>'
 )
 
 # Main title — intro animation (letter-spacing collapse + blur clear)
@@ -243,7 +243,7 @@ parts.append(
     f'<text x="{CX}" y="{TY}" text-anchor="middle" font-size="{FS}" font-weight="900" '
     f'letter-spacing="16" fill="{WHITE}" filter="url(#titleglow)" '
     f'style="animation: titlein 1.2s cubic-bezier(0.2,0.8,0.2,1) 0.3s both">'
-    f'ZENITH</text>'
+    f'Bizar</text>'
 )
 
 # Tagline
